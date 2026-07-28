@@ -11,4 +11,4 @@ A personal portfolio website including a travel blog and image gallery.
 To be updated.
 
 ## Live Demo
-To be updated.# Bi-n-V-n-Minh-Khang-
+To be updated.
