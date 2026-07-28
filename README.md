@@ -1,8 +1,8 @@
 # Personal Portfolio
 
 ## Student
-- Name: Khang Biện
-- Student ID: 23123456
+- Name: BIỆN VĂN MINH KHANG 
+- Student ID: 2400008695
 
 ## Topic
 A personal portfolio website including a travel blog and image gallery.
