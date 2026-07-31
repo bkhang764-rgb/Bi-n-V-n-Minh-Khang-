@@ -8,7 +8,7 @@
 A personal portfolio website including a travel blog and image gallery.
 
 ## Figma
-To be updated.
+https://www.figma.com/design/hdNDSfRddrVVt5scxnnfzz/Untitled?node-id=0-1&t=7HPrJWWiT0CrzkPR-1
 
 ## Live Demo
 To be updated.
