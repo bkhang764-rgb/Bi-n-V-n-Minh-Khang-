@@ -5,7 +5,7 @@
 - Student ID: 2400008695
 
 ## Topic
-A personal portfolio website including a travel blog and image gallery.
+Blog công nghệ,Sở thích cá nhân 
 
 ## Figma
 https://www.figma.com/design/hdNDSfRddrVVt5scxnnfzz/Untitled?node-id=0-1&t=7HPrJWWiT0CrzkPR-1
